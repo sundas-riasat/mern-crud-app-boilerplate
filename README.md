@@ -2,6 +2,8 @@
 
 A simple CRUD (Create, Read, Update, Delete) application built using the MERN (MongoDB, Express, React, Node.js) stack. This app allows users to manage messages by performing basic CRUD operations.
 
+![Home All Messages](https://github.com/sundas-riasat/mern-crud-app-boilerplate/blob/main/message-list-ui.png)
+![Create Messages](https://github.com/sundas-riasat/mern-crud-app-boilerplate/blob/main/create-message.png)
 ## Features
 - Create new messages
 - Read and display messages
