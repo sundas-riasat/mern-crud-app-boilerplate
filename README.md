@@ -24,7 +24,7 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/mern-crud-app.git
+git clone https://github.com/sundas-riasat/mern-crud-app-boilerplate
 cd mern-crud-app
 ```
 
